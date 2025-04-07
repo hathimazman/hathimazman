@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Hathim 👋
 
-<!--
-**hathimazman/hathimazman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a medical doctor with a passion for **data science**, **AI in healthcare**, and **medical education**.
 
-Here are some ideas to get you started:
+🚀 I’m currently working on:
+- A student performance dashboard using machine learning 🧠📊 : []
+- A national system to match doctors’ skill sets with hospital needs 🏥🩺 :
+- AI tools for radiology education 🎓🩻 [Radiology App](https://github.com/hathimazman/radiology_app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I’ve completed:
+- Codecademy Data Scientist: Analytics Path 📈
+- Multiple hands-on health data projects 💡
+
+🔭 I'm exploring:
+- Large Language Models (LLMs) in medical faculty workflows 🤖📄
+- Retrieval-Augmented Generation (RAG) for application essays ✍️
+
+📫 Reach me:
+- LinkedIn: [linkedin.com/in/hathimazman](https://linkedin.com/in/hathimazman)
+- Email: [your email here]
+
+⚡ Fun fact:
+I helped coordinate medical relief during the Klang Valley flash floods 🌧️🧑‍⚕️
