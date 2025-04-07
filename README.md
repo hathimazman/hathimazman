@@ -4,7 +4,7 @@
 - Trainee Lecturer at Faculty of Medicine, Universiti Kebangsaan Malaysia
 - Currently enrolled in Master of Science (Data Science and Analytics) in Fakulti Sains Teknologi (*Faculty of Science and Technology*), Universiti Kebangsaan Malaysia.
 
-## 🚀 I’m currently working on:
+## 🚀 Ongoing Projects:
 1. [Medical Education Dashboard with Artificial Intelligence [MED-AI]](https://ukmfperstudentportfolio.streamlit.app/)
     - A student performance dashboard using machine learning 🧠📊 
 2. [Doctor Matching System Simulation](https://colab.research.google.com/drive/1nrJ4dLl3YKLYSt5fEUCBI53-7Dt0rYCi)
@@ -13,7 +13,7 @@
     - AI tools for radiology education 🎓🩻 
 4. Network Science in Problem Based Learning
 
-## 🧠 Skills & Tools
+## 🧠 Skills & Tools:
 ### 🐍 Python Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -37,7 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
 
-## 🔭 I'm exploring:
+## 🔭 Interests:
 - Large Language Models (LLMs) in medical faculty workflows 
 - Retrieval-Augmented Generation (RAG) for application essays
 - Data Mining for Medical Education
