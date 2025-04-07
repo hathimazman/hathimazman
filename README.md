@@ -3,9 +3,10 @@
 💻 I'm a medical doctor with a passion for **data science**, **AI in healthcare**, and **medical education**.
 
 🚀 I’m currently working on:
-- A student performance dashboard using machine learning 🧠📊 : []
-- A national system to match doctors’ skill sets with hospital needs 🏥🩺 :
-- AI tools for radiology education 🎓🩻 [Radiology App](https://github.com/hathimazman/radiology_app)
+1. A student performance dashboard using machine learning 🧠📊 : []
+2. A national system to match doctors’ skill sets with hospital needs 🏥🩺 :
+3. [Radiology App](https://github.com/hathimazman/radiology_app) 
+    - AI tools for radiology education 🎓🩻 
 
 📚 I’ve completed:
 - Codecademy Data Scientist: Analytics Path 📈
