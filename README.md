@@ -11,7 +11,7 @@
     - A national system to match doctors’ skill sets with hospital needs 🏥🩺 
 3. [Radiology App](https://radiologyapp.streamlit.app/) 
     - AI tools for radiology education 🎓🩻 
-4. Network Science in Problem Based Learning
+4. Network Science in Problem-Based Learning
 
 ## 🧠 Skills & Tools:
 ### 🐍 Python Stack
